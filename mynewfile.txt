@@ -1,2 +1,4 @@
 newfile
 nothing is wrong
+
+adding something to it
